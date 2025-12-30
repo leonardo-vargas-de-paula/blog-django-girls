@@ -1,4 +1,5 @@
 venv/
 mysite/__pycache__/
 blog/migrations/
+blog/__pycache__/
 db.sqlite3
